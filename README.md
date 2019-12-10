@@ -1,3 +1,2 @@
 # SpartaAcademyManagementSystem
 
-###Project
